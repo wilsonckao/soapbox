@@ -1,0 +1,23 @@
+{
+  "name": "soapbox",
+  "version": "1.0.0",
+  "description": "Voice your opinion and argue with a robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efizzysnaps/argue.git"
+  },
+  "author": "HackCU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efizzysnaps/argue/issues"
+  },
+  "homepage": "https://github.com/efizzysnaps/argue#readme",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.5"
+  }
+}
